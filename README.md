@@ -1,2 +1,2 @@
-# pilights
-Raspberry Pi LED Functions
+# pilights of pilightiness
+My Awesome Raspberry Pi LED Functions and Patterns
